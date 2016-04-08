@@ -1,0 +1,55 @@
+.header {
+	
+	font-size: 20px;
+	text-align: center;
+	font-family: monospace;
+	width: 1200px;
+	margin: 1px solid;
+}
+.nav a{
+
+	text-align: center;
+}
+
+.nav a {
+    color: #5a5a5a;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 24px 10px;
+    text-decoration: none;    
+}
+
+.nav li {
+    display: inline;
+    text-align: center; 
+}
+.content{
+	width: 1200px;
+	font-family: monospace;
+}
+.main{
+	float:left;
+	width: 800px;
+
+	
+
+}
+
+.main div{
+	border: 1px solid;
+	padding-top: 5px;
+}
+
+.menu{
+	float:left;
+	width: 392px;
+	font-size: 16px;
+	text-align: center;
+	
+}
+
+
+.footer{
+	clear:both;
+	width:1200px;
+}

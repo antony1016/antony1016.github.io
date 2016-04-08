@@ -1,0 +1,20 @@
+.nav {
+    background-color: #f7eccc;
+}
+
+.nav ul {
+    font-size: 15px;
+    font-weight: bold;
+    margin: 0 auto;
+    padding-right: 20px;
+}
+
+.nav li {
+    display: inline;
+}
+
+.nav li a {
+    text-decoration: none;
+}
+
+

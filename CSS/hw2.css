@@ -1,0 +1,40 @@
+.header{
+	text-align: center;
+	border-bottom: 1px solid;
+	font-family: monospace;
+	font-size: 20px;
+}
+.left{
+	float:left;
+	width:400px;
+}
+.right{
+	float:left;
+	width:800px;
+}
+
+
+.main{
+	clear:both;
+	width:1200px;
+	font-family: monospace;
+	font-size: 18px;
+
+}
+.left2{
+	float:left;
+	width:400px;
+}
+.right2{
+	float:left;
+	width:800px;
+}
+
+
+.main2{
+	clear:both;
+	width:1200px;
+	font-family: monospace;
+	font-size: 18px;
+
+}
