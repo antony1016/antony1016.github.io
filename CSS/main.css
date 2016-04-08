@@ -1,12 +1,12 @@
-.nav {
-    background-color: #f7eccc;
+.content{
+	padding:20px;
 }
 
-.nav ul {
-    font-size: 15px;
+.nav a {
+    color: white;
+    font-size: 20px;
     font-weight: bold;
-    margin: 0 auto;
-    padding-right: 20px;
+    padding: 14px 10px;
 }
 
 .nav li {
@@ -16,5 +16,3 @@
 .nav li a {
     text-decoration: none;
 }
-
-

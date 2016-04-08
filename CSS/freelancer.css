@@ -1,0 +1,159 @@
+#navbar {
+    background:#243141;
+    height: 110px;
+    width: 100%;
+    position: fixed;
+    z-index:999;
+}
+
+div.container{
+    margin:0 auto;
+    max-width: 1280px;
+
+}
+
+div#header_title{
+    font-weight:bold;
+    font-size:2em;
+    float:left;
+    margin:40px 0 0 0;
+}
+
+#header_title{
+
+    
+   font-size: 30px;
+   color:white;
+    font-family:helvetica; 
+    margin:0 auto;
+
+}
+
+#header_title a:visited{
+
+    color:#18bb9c;
+    text-decoration: none;
+}
+
+
+
+#header_title a:link{
+
+     text-decoration: none;
+    color:white;
+    
+
+}
+
+#menu{
+  margin-top:55px;
+  font-weight: bold;
+  float:right;
+
+}
+
+ul{
+    list-style:none;
+}
+
+
+#menu ul li{
+
+    
+    display: inline;
+    list-style: none;
+    padding: 10px;
+
+}
+
+#menu li a{
+
+    font-size: 16px;
+    text-decoration: none;
+    color:white;
+    font-family:helvetica; 
+}
+
+#start{
+    width:auto;
+    background-color:#18bb9c;
+    text-align: center;
+    padding: 110px;
+}
+#start_img{
+   padding: 50px 0 40px 0;
+}
+
+#start_title{
+  font-family: helvetica;
+  font-weight: bold;
+  font-size:4em;
+  color:white;
+
+}
+
+.start_line{
+    padding:30px;
+    text-align:center;
+}
+
+.fa-star{
+    background-color: #18bb9c;
+    position:absolute;
+    z-index: 1;
+    font-size: 2em;
+    padding: 10px;
+    color:white;
+    left:49%;
+}
+
+.line_white{
+    border:solid 3px;
+    max-width: 300px;
+    color:white;
+
+}
+
+.start_text{
+    font-size:21px;
+    color:white;
+    padding:20px;
+}
+
+#portfolio{
+    background-color:white;
+    padding:150px 0 110px 0;
+    text-align:center;
+}
+
+
+
+
+.col-12{
+    float:left;
+    margin-bottom: 40px;
+}
+
+div.blue_title{
+    font-weight: 700;
+    font-size: 3em;
+    text-align: center;
+    color:#2c3d4f;
+}
+.star_line_blue{
+    padding:30px;
+    text-align: center;
+}
+
+.stat_line_blue .fa-star{
+    background-color:white;
+    position:absolute;
+    font-size:2em;
+    padding:10px;
+    color:#2c3d4f;
+    left:49%;
+}
+
+.fa{
+    display:inline-block;
+}
